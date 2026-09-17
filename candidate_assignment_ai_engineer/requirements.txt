@@ -1,0 +1,10 @@
+streamlit>=1.36
+pandas>=2.0
+scikit-learn>=1.4
+pypdf>=4.0
+python-docx>=1.1
+pytest>=8.0
+
+# Optional extras (not needed to run the app):
+# sentence-transformers>=3.0   # MiniLM embeddings toggle in the sidebar
+# mcp>=2.0                     # python mcp_server.py

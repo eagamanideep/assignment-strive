@@ -1,0 +1,9 @@
+Scope components may include:
+- cohort-based enrollment forecasting
+- attendance boundary review
+- redistricting options
+- GIS-style mapping outputs
+- overcrowding analysis
+- community meetings
+
+The district prefers firms with prior experience in demographic studies and school planning.

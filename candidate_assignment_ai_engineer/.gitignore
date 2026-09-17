@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.zip
+.DS_Store
+Thumbs.db
+desktop.ini
